@@ -1,0 +1,2626 @@
+{
+  "homepages": [],
+  "source_base_path": "D:/BC24/ALDOCDEMO004",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "README.md",
+      "output": {
+        ".html": {
+          "relative_path": "README.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Approvals-Mgmt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Approvals-Mgmt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Page-Functions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Page-Functions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Response-Handling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Response-Handling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Subscriber-Management.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Subscriber-Management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Workflow-Event-Handling.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Workflow-Event-Handling.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Workflow-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CA-Workflow-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CAP-Page-Functions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-CAP-Page-Functions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Calc-Reserv-Subscriber-Mgt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Calc-Reserv-Subscriber-Mgt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Calculation-Line-Reserve.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Calculation-Line-Reserve.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Calculation-Management.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Calculation-Management.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Custom-Report-Mgt.-PDF-WOR.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Custom-Report-Mgt.-PDF-WOR.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Try-Catch-Calculation-Mgt..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Codeunit/CGI-Try-Catch-Calculation-Mgt..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalcToQuoteCheck.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalcToQuoteCheck.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalculateCreditLimitOn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalculateCreditLimitOn.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-Calculation-Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-Calculation-Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalculationLineItemType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalculationLineItemType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalculationLineType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CalculationLineType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CostRevenueType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-CostRevenueType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-DefaultPercentBasedOn.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-DefaultPercentBasedOn.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-OtherCostsAndRevenuType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-OtherCostsAndRevenuType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-PayableBy.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-PayableBy.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-UseDueDateFrom.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CA-UseDueDateFrom.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-Calc.-Approval-Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-Calc.-Approval-Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-Calculation-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-Calculation-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-Comment-Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-Comment-Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-CustomerCountryLimitType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-CustomerCountryLimitType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-Default-Posting-Date.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-Default-Posting-Date.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-Post-Calculation-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-Post-Calculation-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGI-VendorBankCodeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGI-VendorBankCodeType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Enum/CGIPostCalculationControlType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Enum/CGIPostCalculationControlType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/EnumExtension/CGI-Comment-Line-Table-Name.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/EnumExtension/CGI-Comment-Line-Table-Name.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Module/Elof-Hansson-Business-Model.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Module/Elof-Hansson-Business-Model.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Approvals-Factbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Approvals-Factbox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Business-Terms-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Business-Terms-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-CA-General-Factbox.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-CA-General-Factbox.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-CAW-Item-Led-Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-CAW-Item-Led-Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calc.-Item-Ledg.-Ent.-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calc.-Item-Ledg.-Ent.-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calc.-Item-Lines-Sales-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calc.-Item-Lines-Sales-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calc.-Reservation-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calc.-Reservation-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calcul-Item-Lines-Sal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calcul-Item-Lines-Sal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation---Navigate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation---Navigate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Comments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Comments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Cust.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Cust.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Item-Lines-Per.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Item-Lines-Per.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Item-Lines-Sal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Item-Lines-Sal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-ItemLines-Purc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-ItemLines-Purc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Lines-Lookup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Lines-Lookup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Statistics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-Statistics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-per-salesperso.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Calculation-per-salesperso.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Chart-of-Accounts-Overview.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Chart-of-Accounts-Overview.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Confirm-Save-Document.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Confirm-Save-Document.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Division-Details.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Division-Details.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Division-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Division-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Finished-Calculation-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Finished-Calculation-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Finished-Calculation-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Finished-Calculation-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Finished-Calculations-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Finished-Calculations-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Item-List-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Item-List-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Other-Costs-and-Rev.-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Other-Costs-and-Rev.-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-Control.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-Control.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Post-Calculation-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Printed-Sales-Doc.-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Printed-Sales-Doc.-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Purchase-Calculation-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Purchase-Calculation-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Purchase-Calculation-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Purchase-Calculation-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Report-Sel.-Print.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Report-Sel.-Print.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Sales-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Sales-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-SalesCalc.-WarehouseList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-SalesCalc.-WarehouseList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/CGI-Sub-Account-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/CGI-Sub-Account-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/Cgi-CAP-Cost-Rev.-Margin-Det..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/Cgi-CAP-Cost-Rev.-Margin-Det..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Page/Cgi-Cost-Rev.-Margin-Details.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Page/Cgi-Cost-Rev.-Margin-Details.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-CAW-Avail-Purchase-Lines.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-CAW-Avail-Purchase-Lines.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-CAW-Reservation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-CAW-Reservation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Country-Region.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Country-Region.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Custom-Report-Layouts.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Custom-Report-Layouts.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Customer-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Customer-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Customer-Ledger-Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Customer-Ledger-Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Edit-Dimension-Set-Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Edit-Dimension-Set-Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Journal.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Journal.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Ledger-Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Ledger-Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Lookup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Item-Lookup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purch.-Inv.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purch.-Inv.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purchase--Cr.-Memo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purchase--Cr.-Memo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purchase-Invoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purchase-Invoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purchase-Receipt.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Purchase-Receipt.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-CrMo-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-CrMo-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Credit-Memo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Credit-Memo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Inv.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Inv.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Invoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Invoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Shipment.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Shipment.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Shpt.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Posted-Sales-Shpt.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Ptd-Purch.-Cr.-Memo-Subfrm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Ptd-Purch.-Cr.-Memo-Subfrm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Ptd.-Purch.-Rpct.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Ptd.-Purch.-Rpct.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purch.-Cr.-Memo-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purch.-Cr.-Memo-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purch.-Invoice-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purch.-Invoice-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purch.-Order-Arch.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purch.-Order-Arch.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Credit-Memo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Credit-Memo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Invoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Invoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Order-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Order-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Order-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Order-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Order.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Purchase-Order.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Cr.-Memo-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Cr.-Memo-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Credit-Memo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Credit-Memo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Invoice-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Invoice-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Invoice.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Invoice.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-Arch.-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-Arch.-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-Subform.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order-Subform.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Sales-Order.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Salesperson-Purchaser-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Salesperson-Purchaser-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Standard-Text-Codes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Standard-Text-Codes.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-User-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-User-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Vendor-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Vendor-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Vendor-Ledger-Entries.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PageExtension/CGI-Vendor-Ledger-Entries.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PermissionSet/CGI-CA-Admin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PermissionSet/CGI-CA-Admin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/PermissionSet/CGI-CA-User.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/PermissionSet/CGI-CA-User.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-AfterCalculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-AfterCalculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-Copy-comments-to-calculati.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-Copy-comments-to-calculati.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-Int.-Interest-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-Int.-Interest-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-Item-per-Vendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-Item-per-Vendor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-ProfitPerSalespersonCalc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-ProfitPerSalespersonCalc.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-Update-Post-Calc-Details.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-Update-Post-Calc-Details.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-UpdateCalcReadyforClosing.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-UpdateCalcReadyforClosing.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Report/CGI-UpdateCalcStatus.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Report/CGI-UpdateCalcStatus.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Business-Terms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Business-Terms.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Processing-Log.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Processing-Log.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Calculation-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Division-Details.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Division-Details.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Division.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Division.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Extended-Precalculations.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Extended-Precalculations.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Other-Costs-and-Revenues.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Other-Costs-and-Revenues.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calc.-Header-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calc.-Header-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calc.-Line-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calc.-Line-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calculation-Control.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calculation-Control.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calculation-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calculation-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calculation-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Post-Calculation-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Printed-Sales-Documents.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Printed-Sales-Documents.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Stockkeeping-Cost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Stockkeeping-Cost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/Table/CGI-Sub-Account.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/Table/CGI-Sub-Account.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Country-Region.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Country-Region.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Cust.-Ledger-Entry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Cust.-Ledger-Entry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Custom-Report-Layout.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Custom-Report-Layout.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Customer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Customer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Dimension-Value.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Dimension-Value.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-G-L-Entry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-G-L-Entry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Gen.-Journal-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Gen.-Journal-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Item-Journal-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Item-Journal-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Item-Ledger-Entry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Item-Ledger-Entry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Item.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Item.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-PEB-Temp-Purch.-Doc-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-PEB-Temp-Purch.-Doc-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-PEB-Temp-Sales-Doc-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-PEB-Temp-Sales-Doc-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Payment-Terms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Payment-Terms.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Cr.-Memo-Hdr..yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Cr.-Memo-Hdr..html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Cr.-Memo-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Cr.-Memo-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Inv.-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Inv.-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Inv.-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Inv.-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Rcpt.-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Rcpt.-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Rcpt.-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purch.-Rcpt.-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Header-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Header-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Line-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Line-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Purchase-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Cr.-Memo-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Cr.-Memo-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Cr.Memo-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Cr.Memo-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Header-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Header-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Invoice-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Invoice-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Invoice-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Invoice-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Line-Archive.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Line-Archive.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Shipment-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Shipment-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Shipment-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Sales-Shipment-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Salesperson-Purchaser.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Salesperson-Purchaser.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Standard-Text.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Standard-Text.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-User-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-User-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-VAT-Posting-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-VAT-Posting-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Vendor-Ledger-Entry.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Vendor-Ledger-Entry.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Vendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-business-model/TableExtension/CGI-Vendor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Codeunit/CGI-TFM-Approve-Buffer-Posting.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Codeunit/CGI-TFM-Approve-Buffer-Posting.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Codeunit/CGI-TFM-Send-Email.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Codeunit/CGI-TFM-Send-Email.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Codeunit/Update-LCBG-Sales-Invoice-Info.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Codeunit/Update-LCBG-Sales-Invoice-Info.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-Email-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-Email-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Bank-Charge.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Bank-Charge.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-BankGuaranteeType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-BankGuaranteeType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Beneficiary-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Beneficiary-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Insurance.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Insurance.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-LCType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-LCType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-SanctionClause.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-SanctionClause.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Status.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Status.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Enum/CGI-TFM-LCBG-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/EnumExtension/CGI-Report-Selection-Usage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/EnumExtension/CGI-Report-Selection-Usage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Module/Elof-Hansson-Trade-Finance-Module.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Module/Elof-Hansson-Trade-Finance-Module.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Add-Precalc.-to-LC-Dialog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Add-Precalc.-to-LC-Dialog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Cr.-Export-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Cr.-Export-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Cr.-Import-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Cr.-Import-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Credit-Export.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Credit-Export.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Credit-Import.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-Letter-of-Credit-Import.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Administration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Administration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Approve-Calc.-Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Approve-Calc.-Buffer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Bank-Guarantee-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Bank-Guarantee-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Bank-Guarantee.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Bank-Guarantee.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Bnk.-Guarantee-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Bnk.-Guarantee-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Comment-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Comment-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Comment-Sheet.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Comment-Sheet.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Confirming-fee.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Confirming-fee.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Country-Comments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Country-Comments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Document-Layout---LCBG.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Document-Layout---LCBG.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Bank-Guarant.-Costs.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Bank-Guarant.-Costs.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Purchase-Invoices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Purchase-Invoices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Sales-Invoices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-LC-Sales-Invoices.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Letter-of-Cr.-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Letter-of-Cr.-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Main-Menu.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Main-Menu.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Migration.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-Migration.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-SQLData-Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Page/CGI-TFM-SQLData-Buffer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Calculation-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Calculation-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Calculation-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Calculation-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Calculation-Setup-.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Calculation-Setup-.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Division-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Division-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Purchase-Calc.-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Purchase-Calc.-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Purchase-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Purchase-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Sales-Calculation-List.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Sales-Calculation-List.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Sales-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Sales-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Vendor-Card.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PageExtension/CGI-TFM-Vendor-Card.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PermissionSet/CGI-TFM-Admin.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PermissionSet/CGI-TFM-Admin.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/PermissionSet/CGI-TFM-Super.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/PermissionSet/CGI-TFM-Super.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Report/CGI-Select-Email-Type.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Report/CGI-Select-Email-Type.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Report/CGI-Send-LCBG-Email.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Report/CGI-Send-LCBG-Email.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-Approve-Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-Approve-Buffer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-Comment-Code.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-Comment-Code.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-Comment-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-Comment-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-LCBG-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-LCBG-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-LCBG-Line.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-LCBG-Line.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-SQLData-Buffer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/Table/CGI-TFM-SQLData-Buffer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Calculation-Header.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Calculation-Header.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Calculation-Setup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Calculation-Setup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Division.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Division.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Vendor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGI-TFM-Vendor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGITFM-Custom-Report-Selection.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/TableExtension/CGITFM-Custom-Report-Selection.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-BG-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-BG-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-BGCost.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-BGCost.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Bank-Guarantee.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Bank-Guarantee.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Country-Comments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Country-Comments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-LC-Calculation.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-LC-Calculation.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Letter-Of-Cr.-Bank.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Letter-Of-Cr.-Bank.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Letter-Of-Cr.-Expo.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Letter-Of-Cr.-Expo.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Letter-Of-Cr.-Imp.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-Letter-Of-Cr.-Imp.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-TFM-Comments.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Import-TFM-Comments.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "BusinessCentralApplicationObject",
+      "source_relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Letter-Of-Credit-Confirm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "reference/elof-hansson-trade-finance-module/XmlPort/CGI-Letter-Of-Credit-Confirm.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
